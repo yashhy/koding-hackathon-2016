@@ -1,0 +1,38 @@
+.login-wrapper {
+    max-width : 400px;
+    margin-top: 250px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    float: none !important;
+}
+
+body, html, .app-wrapper {
+    max-height : 100%;
+}
+
+.login-wrapper .login-text {
+    font-size : 18px;
+    margin-bottom : 30px;
+    color : rgb(99, 115, 158);
+}
+
+.login-wrapper .name-field {
+    margin-bottom : 30px;
+}
+
+.login-wrapper .sign-up-label {
+    color : #4da6ff;
+}
+.login-wrapper .sign-up-label a {
+    text-decoration : none;
+    cursor : pointer;
+    text-align : center;
+}
+
+.login-wrapper .pass-field {
+    margin-bottom : 30px;
+}
+.login-btn {
+    background-color : #4da6ff !important;
+    color : white !important;
+}

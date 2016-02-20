@@ -1,5 +1,5 @@
 (function () {
-	angular.module('invoiceManager').controller('LoginController', function () {
+	angular.module('invoiceManager').controller('LoginController', function (loginService) {
 
 	});
 })();	
